@@ -45,7 +45,7 @@ Assuming you live in the world that says H0 is fair coin, you tossed a coin six 
 > + 0.5
 > + 0.25
 > + 0.12
-> + 0.06 __At this point the p-value is less than 0.05 (5%)_, hence it is statistically significant, reject the H0
+> + 0.06 __At this point (below) the p-value is less than 0.05 (5%)_, hence it is statistically significant, reject the H0
 > + 0.03
 > + 0.01
 
