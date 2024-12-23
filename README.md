@@ -20,3 +20,12 @@ Explaining Statistical Significance with a Fair Coin (𝐻0) and Unfair Coin (�
 > + Decision: Compare p-value to 𝛼 to accept or reject 𝐻0​
 
 _This process demonstrates the concept of statistical significance in testing whether a coin is fair._
+
+## Experiment
+Assuming you live in the world that says H0 is fair coin, you tossed a coin six times and got 1 Head and 5 Tails, will you still say is a fair coin, you see the P-value goes down for every time you see tail, feel uneasy.
+
+## What is P-value
+> The p-value, or probability value, is a statistical measure used to determine the strength of evidence against the null hypothesis (𝐻0) in a hypothesis test. It quantifies how likely it is to observe the results (or more extreme ones) if the null hypothesis were true.
+> 
+> The p-value represents the probability of obtaining the observed data (or something more extreme) under the assumption that the null hypothesis (H0) is true.
+> The p-value always lies between 0 and 1 (0≤𝑝≤1).
