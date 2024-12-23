@@ -29,3 +29,23 @@ Assuming you live in the world that says H0 is fair coin, you tossed a coin six 
 > 
 > The p-value represents the probability of obtaining the observed data (or something more extreme) under the assumption that the null hypothesis (H0) is true.
 > The p-value always lies between 0 and 1 (0≤𝑝≤1).
+
+## Interpretation:
+> + Low p-value (<α): Strong evidence against 𝐻0, reject the null hypothesis.
+> + High p-value (≥𝛼): Insufficient evidence against 𝐻0, fail to reject the null hypothesis.
+
+## Significance Level (𝛼):
+> + The threshold to decide whether the p-value indicates statistical significance.
+> + Common values: 𝛼 =0.05 (5%), 𝛼=0.01 (1%).
+
+## How to Interpret P-Value
+> + p<0.05: The results are statistically significant. There is strong evidence to reject 𝐻0.
+> + 𝑝≥0.05: The results are not statistically significant. There is not enough evidence to reject 𝐻0.
+> + e.g assume we toss a coin and got the following; For a case where we live in the H0 of Fair coin, end up getting tails all the time up to 6 times
+> + 0.5
+> + 0.25
+> + 0.12
+> + 0.06 __At this point the p-value is less than 0.05 (5%)_, hence it is statistically significant, reject the H0
+> + 0.03
+> + 0.01
+
